@@ -60,17 +60,27 @@ const Equipment: React.FC = () => {
                 </div>
               </div>
               
-              <div className="relative">
-                <div className="rounded-lg overflow-hidden shadow-xl">
-                  {/* Using a placeholder image for Kapp AS305B machine */}
+              <div className="grid grid-cols-1 gap-4">
+                <div className="relative rounded-lg overflow-hidden shadow-xl">
                   <img 
-                    src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7" 
+                    src="/lovable-uploads/43a798c5-0c36-4097-83ac-dfc3e564aed4.png" 
                     alt="Kapp AS305B Machine" 
                     className="w-full h-auto"
                   />
+                  <div className="absolute top-0 right-0 bg-engineering-600 text-white px-4 py-2 rounded-bl font-bold">
+                    Kapp AS305B
+                  </div>
                 </div>
-                <div className="absolute -bottom-4 -right-4 bg-engineering-600 text-white px-4 py-2 rounded font-bold">
-                  Kapp AS305B
+                
+                <div className="relative rounded-lg overflow-hidden shadow-xl">
+                  <img 
+                    src="/lovable-uploads/10250cb6-785c-44d9-94a4-4bb55684d24f.png" 
+                    alt="Kapp AS305B Cutting Process" 
+                    className="w-full h-auto"
+                  />
+                  <div className="absolute bottom-0 left-0 bg-engineering-600 text-white px-4 py-2 rounded-tr font-bold">
+                    Precision Cutting
+                  </div>
                 </div>
               </div>
             </div>
