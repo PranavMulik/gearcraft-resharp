@@ -26,7 +26,7 @@ const Logo: React.FC<LogoProps> = ({
         viewBox="0 0 100 100" 
         xmlns="http://www.w3.org/2000/svg"
         className={cn(
-          'fill-engineering-600 w-full h-full', 
+          'fill-teal-600 w-full h-full', 
           animated && 'animate-spin-slow'
         )}
       >
@@ -38,7 +38,7 @@ const Logo: React.FC<LogoProps> = ({
         {/* Letter M */}
         <path 
           d="M35,45 L42,45 L50,55 L58,45 L65,45 L65,75 L58,75 L58,55 L50,65 L42,55 L42,75 L35,75 Z" 
-          fill="#246ca0"
+          fill="#d95d39"
         />
       </svg>
     </div>
