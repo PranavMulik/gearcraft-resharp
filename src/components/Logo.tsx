@@ -38,7 +38,7 @@ const Logo: React.FC<LogoProps> = ({
         {/* Letter M */}
         <path 
           d="M35,45 L42,45 L50,55 L58,45 L65,45 L65,75 L58,75 L58,55 L50,65 L42,55 L42,75 L35,75 Z" 
-          fill="#d95d39"
+          fill="#D95D39"
         />
       </svg>
     </div>
