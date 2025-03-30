@@ -117,7 +117,7 @@ const ContactSection: React.FC = () => {
                     <Phone className="h-5 w-5 text-engineering-600 mt-1" />
                     <div>
                       <p className="font-medium text-metal-800">Phone</p>
-                      <p className="text-metal-600">+91 92341 56412</p>
+                      <p className="text-metal-600">+91 98765 43210</p>
                     </div>
                   </div>
                   
@@ -125,7 +125,7 @@ const ContactSection: React.FC = () => {
                     <Mail className="h-5 w-5 text-engineering-600 mt-1" />
                     <div>
                       <p className="font-medium text-metal-800">Email</p>
-                      <p className="text-metal-600">hemant.mulik@rediffmail.com</p>
+                      <p className="text-metal-600">info@mulikhtech.com</p>
                     </div>
                   </div>
                   
@@ -134,7 +134,7 @@ const ContactSection: React.FC = () => {
                     <div>
                       <p className="font-medium text-metal-800">Address</p>
                       <p className="text-metal-600">
-                       Talawde, near Hotel Sai Garden
+                        123 Engineering Street, Industrial Area,
                         <br />
                         Pune, Maharashtra - 411001
                       </p>
