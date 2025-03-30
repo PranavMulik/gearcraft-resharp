@@ -100,10 +100,10 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-bold mb-4">Contact Us</h3>
             <address className="not-italic text-gray-400 space-y-3">
-              <p>123 Engineering Street, Industrial Area, Pune, Maharashtra - 411001</p>
+              <p>Talawde near Hotel Sai Garden, Pune, Maharashtra</p>
               <p>
-                <span className="block">Phone: +91 98765 43210</span>
-                <span className="block">Email: info@mulikhtech.com</span>
+                <span className="block">Phone: +91 92341 56412</span>
+                <span className="block">Email: hemant.mulik@rediffmail.com</span>
               </p>
               <p>
                 Monday - Saturday: 9:00 AM - 6:00 PM
